@@ -1,0 +1,77 @@
+[
+  {
+    "name": "cap1",
+    "description": "first capability",
+    "APIs": [
+      {
+        "name": "api1"
+      },
+      {
+        "name": "api2"
+      },
+      {
+        "name": "api3"
+      }
+    ]
+  },
+  {
+    "name": "cap2",
+    "description": "second capability",
+    "APIs": [
+      {
+        "name": "api2"
+      },
+      {
+        "name": "api4"
+      },
+      {
+        "name": "api5"
+      }
+    ]
+  },
+  {
+    "name": "cap3",
+    "description": "third capability",
+    "APIs": [
+      {
+        "name": "api1"
+      },
+      {
+        "name": "api4"
+      },
+      {
+        "name": "api6"
+      }
+    ]
+  },
+  {
+    "name": "cap4",
+    "description": "fourth capability",
+    "APIs": [
+      {
+        "name": "api5"
+      },
+      {
+        "name": "api2"
+      },
+      {
+        "name": "api7"
+      }
+    ]
+  },
+  {
+    "name": "cap5",
+    "description": "fifth capability",
+    "APIs": [
+      {
+        "name": "api1"
+      },
+      {
+        "name": "api3"
+      },
+      {
+        "name": "api5"
+      }
+    ]
+  }
+]

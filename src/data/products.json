@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Hat",
+    "description": "This is a hat",
+    "components": [
+      {
+        "name": "leather"
+      },
+      {
+        "name": "shiny"
+      }
+    ]
+  },
+
+  {
+    "name": "Coat",
+    "description": "This is a coat",
+    "components": [
+      {
+        "name": "fleece"
+      },
+      {
+        "name": "heavy"
+      }
+    ]
+  }
+]

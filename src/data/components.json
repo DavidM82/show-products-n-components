@@ -1,0 +1,50 @@
+[
+  {
+    "name": "leather",
+    "description": "This is leather",
+    "capabilites": [
+      {
+        "name": "cap1"
+      },
+      {
+        "name": "cap2"
+      }
+    ]
+  },
+  {
+    "name": "shiny",
+    "description": "This is shiny",
+    "capabilites": [
+      {
+        "name": "cap2"
+      },
+      {
+        "name": "cap3"
+      }
+    ]
+  },
+  {
+    "name": "fleece",
+    "description": "This is fleece",
+    "capabilites": [
+      {
+        "name": "cap1"
+      },
+      {
+        "name": "cap4"
+      }
+    ]
+  },
+  {
+    "name": "heavy",
+    "description": "This is heavy",
+    "capabilites": [
+      {
+        "name": "cap3"
+      },
+      {
+        "name": "cap5"
+      }
+    ]
+  }
+]
